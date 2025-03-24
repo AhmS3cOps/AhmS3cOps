@@ -5,7 +5,7 @@ I’m a budding **Cybersecurity Professional** with a passion for networking, se
 
 - **Simple Computer Network Simulation in Cisco Packet Tracer**  
   - A basic simulation showcasing network configurations, routing, and network security fundamentals.  
-  - [View Project](#https://github.com/AhmedS3cOps/Computer-Network-Simulation-in-Cisco-Packet-Tracer)
+  - [View Project](https://github.com/AhmedS3cOps/Computer-Network-Simulation-in-Cisco-Packet-Tracer)
 
 ## 🎓 Certifications:
 
