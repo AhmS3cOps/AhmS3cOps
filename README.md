@@ -59,7 +59,7 @@ While my primary focus is now on cybersecurity, I have a strong programming back
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/AhmedS3cOps)
 
 ## 📫 How to reach me:
-- Email: [hmkalkali@gmail.com](mailto:alkdeydocyber@gmail.com)
+- Email: [alkdeydocyber@gmail.com](mailto:alkdeydocyber@gmail.com)
 - LinkedIn: [Ahmed Mohammed Alkali](https://www.linkedin.com/in/ahmed-mohammed-allkali)
 
 ---
