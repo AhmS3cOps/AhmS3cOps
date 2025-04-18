@@ -1,7 +1,7 @@
 # Hi, I'm Ahmed Mohammed! 👋  
 I’m an aspiring Network Engineer with a passion for networking, cybersecurity, and technology. I have a solid foundation in core networking concepts and security principles, and I’m actively expanding my knowledge in both areas. My current focus is on building practical experience to become a proficient Network Engineer, with a strong emphasis on implementing cybersecurity best practices in network design and defense.
 
-## 🔒 Cybersecurity Projects & Labs:
+## 🔒 Projects & Labs:
 
 - **Traffic-Analysis-Wireshark**  
   - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
