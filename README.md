@@ -90,7 +90,7 @@ While my primary focus is on networking and cybersecurity, I leverage programmin
 
 ## 📫 How to reach me:
 - Email: [alkdeydocyber@gmail.com](mailto:alkdeydocyber@gmail.com)
-- LinkedIn: [Ahmed Mohammed Alkali](https://www.linkedin.com/in/ahmed-mohammed-allkali)
+- LinkedIn: [Ahmed Mohammed Alkali](https://www.linkedin.com/in/ahmed-mohammed-alkali)
 
 ---
 
