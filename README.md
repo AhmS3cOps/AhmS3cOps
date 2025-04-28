@@ -6,6 +6,10 @@ I’m an aspiring Network Engineer with a passion for networking, cybersecurity,
 - **Traffic-Analysis-Wireshark**  
   - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
   - [View Project](https://github.com/AhmS3cOps/Traffic-Analysis-Wireshark)
+ 
+- **Campus-Network-Configuration-Lab**  
+  - This project covers the full setup of a campus network in Cisco Packet Tracer: VLANs, trunking, spanning-tree optimization, redundancy with HSRP, routing with EIGRP, DHCP services, NAT/PAT configuration, and Internet access verification.
+  - [View Project](https://github.com/AhmS3cOps/Campus-Network-Configuration-Lab)
 
 - **STP-Security-Lab-Root-Guard-BPDU-Guard**  
   - This project demonstrates how to secure a switched network in Cisco Packet Tracer using Spanning Tree Protocol (STP) features: Root Guard and BPDU Guard. These mechanisms prevent rogue switches from becoming the root bridge and disrupting network topology.
