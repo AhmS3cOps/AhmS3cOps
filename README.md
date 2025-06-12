@@ -36,11 +36,11 @@ I’m an aspiring Network Engineer with a passion for networking, cybersecurity,
 - **CCNA: Enterprise Networking, Security, and Automation** – Cisco  
   - Completed the course, gaining a foundation in scalable network architectures, dynamic routing, mitigation of security threats, wide-area networks, virtualization, and       automation of programmable networks.  
   - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-  - 
+    
 - **CCNA: Switching, Routing, and Wireless Essentials** – Cisco  
   - Completed the course, gaining a foundation in switching operations, wired and wireless LAN configuration using security best practices, redundancy protocols, and            developed problem-solving skills.  
   - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-  - 
+    
 - **CCNA: Introduction to Networks** – Cisco  
   - Completed the course, gaining knowledge of IP addressing, connectivity between switches, routers, and end devices, and foundational networking concepts.  
   - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
