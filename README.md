@@ -33,28 +33,16 @@ I’m an aspiring Network Engineer with a passion for networking, cybersecurity,
 
 ## 🎓 Certifications:
 
-- **CCNA: Enterprise Networking, Security, and Automation** – Cisco  
-  - Completed the course, gaining a foundation in scalable network architectures, dynamic routing, mitigation of security threats, wide-area networks, virtualization, and       automation of programmable networks.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
+- **Cisco Certified Network Associate (CCNA)** –  Cisco Systems  
+  - Demonstrated knowledge and skills in network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation & programmability.
+  - [Link to Badge](https://www.credly.com/earner/earned/share/e9ffad81-6d3d-4211-b6ee-b0b5e708308f)
     
-- **CCNA: Switching, Routing, and Wireless Essentials** – Cisco  
-  - Completed the course, gaining a foundation in switching operations, wired and wireless LAN configuration using security best practices, redundancy protocols, and            developed problem-solving skills.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-    
-- **CCNA: Introduction to Networks** – Cisco  
-  - Completed the course, gaining knowledge of IP addressing, connectivity between switches, routers, and end devices, and foundational networking concepts.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-
 - **Endpoint Security** – Cisco  
   - Completed training on network security concepts and endpoint protection, including OS and application-level security.  
   - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
 
 - **Network Defense** – Cisco  
   - Gained knowledge on techniques for monitoring and protecting networks, including access control, firewalls, cloud security, and cryptography.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-
-- **Junior Cybersecurity Analyst Career Path** – Cisco  
-  - Completed a career pathway focused on network monitoring, security alerts, incident response, and vulnerability assessment.  
   - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
     
 - **AWS Academy Graduate - AWS Academy Cloud Foundations** – Amazon Web Services  
@@ -65,26 +53,10 @@ I’m an aspiring Network Engineer with a passion for networking, cybersecurity,
   - Completed a course on the basics of network security, encryption, and cybersecurity laws, with an introduction to attack techniques and defense strategies.  
   - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
 
-- **Introduction to Cybersecurity** – Cisco  
-  - Gained insights into global cybersecurity threats, vulnerabilities, and threat detection/defense strategies.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-
-- **Networking Basics** – Cisco  
-  - Learned networking concepts, how devices communicate, network cabling, and the basics of IP addressing and transport/application protocols.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-    
-- **Networking Devices and Initial Configuration** – Cisco  
-  - Learned to configure Cisco devices, build small networks, and troubleshoot network connectivity issues.  
-  - [Link to Badge](https://www.credly.com/users/ahmed-mohammed-allkali)
-
-
 ## 📚 Currently Exploring:
-- Preparing for the **Cisco CCNA Certification**
-- Core networking concepts: IP addressing, routing, switching, and VLANs
-- Network troubleshooting using **Wireshark**
-- Cisco device configuration in **Packet Tracer** and **GNS3**
-- Linux basics for network engineers
-- Network security fundamentals (ACLs, firewalls, NAT)
+- Deepening skills post-Cisco CCNA Certification
+- Advanced troubleshooting with Wireshark and Tcpdump
+- Linux for network engineers: CLI, networking tools, and permissions
 
   
 ## 👨‍💻 Programming Skills:
