@@ -1,5 +1,5 @@
 # Hi, I'm Ahmed Mohammed! 👋  
-I’m an aspiring Network Engineer with a passion for networking, cybersecurity, and technology. I have a solid foundation in core networking concepts and security principles, and I’m actively expanding my knowledge in both areas. My current focus is on building practical experience to become a proficient Network Engineer, with a strong emphasis on implementing cybersecurity best practices in network design and defense.
+Cisco Certified Network Associate (CCNA) with practical experience in network configuration, troubleshooting, and cybersecurity tools. Solid foundation in routing, switching, and network security principles. Organized and motivated to contribute effectively in dynamic IT environments, with a strong focus on implementing cybersecurity best practices and continuous hands-on learning.
 
 ## 🔒 Projects & Labs:
 
