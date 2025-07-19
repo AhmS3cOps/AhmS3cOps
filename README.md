@@ -18,7 +18,7 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 - **STP-Security-Lab-Root-Guard-BPDU-Guard**  
   - This project demonstrates how to secure a switched network in Cisco Packet Tracer using Spanning Tree Protocol (STP) features: Root Guard and BPDU Guard. These mechanisms prevent rogue switches from becoming the root bridge and disrupting network topology.
   - [View Project](https://github.com/AhmS3cOps/STP-Security-Lab-Root-Guard-BPDU-Guard)
-  - 
+    
 - **Movie Booking System**  
   - A full-featured movie booking system built with MongoDB, Express, React, and Node.js (MERN). Users can browse movies, watch trailers, select seats and showtimes, book tickets with Stripe payments, and manage their profiles securely using JWT authentication and bcrypt hashing. The system ensures smooth navigation and robust validation for an optimal user experience.
   - [View Project](https://github.com/AhmS3cOps/MovieBookingSystem)
