@@ -3,6 +3,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 
 ## 🔒 Projects & Labs:
 
+- **Zeek-Network-Forensics-TryHackMe-Investigations**  
+  - Hands-on threat hunting using Zeek on real-world PCAPs from TryHackMe labs. Investigated DNS tunneling, phishing campaigns, and Log4j RCE exploitation through log analysis, scripting, and malware inspection.
+  - [View Project](https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations)
+    
 - **Traffic-Analysis-Wireshark**  
   - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
   - [View Project](https://github.com/AhmS3cOps/Traffic-Analysis-Wireshark)
