@@ -4,7 +4,7 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 ## 🔒 Projects & Labs:
 
 - **Personal VPN Setup**  
-  - This project outlines how I set up my own WireGuard VPN server to enhance my online security and privacy. Using Oracle Cloud's Always Free Tier, I created a secure and private VPN environment while also gaining a deeper understanding of how VPNs work. This document reflects my journey, the challenges I faced, and how I tackled each step.
+  - Deployed a secure, self-hosted VPN server using WireGuard on Oracle Cloud’s Always Free Tier infrastructure. This project involved configuring a cloud-based Ubuntu VPS, setting up WireGuard server and client configurations, securely transferring client keys, and verifying encrypted tunneling with IP masking. Learned to manage firewall rules, troubleshoot service states, and understand core VPN concepts like peer authentication, IP routing, and DNS tunneling.
   - [View Project](https://github.com/AhmS3cOps/Personal-WireGuard-VPN-Setup)
     
 - **Zeek-Network-Forensics-TryHackMe-Investigations**  
