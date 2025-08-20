@@ -14,6 +14,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 - **Snort-Live-Attack-Detection-Prevention-Labs**  
   - Snort-based intrusion detection and prevention lab using TryHackMe scenarios. Detect and block brute-force and reverse shell attacks with custom rules and live traffic analysis.
   - [View Project](https://github.com/AhmS3cOps/Snort-Live-Attack-Detection-Prevention-Labs)
+ 
+- **Site-to-Site-IPsec-VPN-Lab**  
+  - Implementation of a Site-to-Site IPsec VPN in Cisco Packet Tracer to securely connect two remote LANs over an untrusted WAN, with full configuration and verification steps.
+  - [View Project](https://github.com/AhmS3cOps/Site-to-Site-IPsec-VPN-Lab)
     
 - **Traffic-Analysis-Wireshark**  
   - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
