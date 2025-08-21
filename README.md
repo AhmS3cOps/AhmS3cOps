@@ -22,6 +22,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 - **Traffic-Analysis-Wireshark**  
   - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
   - [View Project](https://github.com/AhmS3cOps/Traffic-Analysis-Wireshark)
+
+- **Python Projects**  
+  - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
+  - [View Project](https://github.com/AhmS3cOps/Python-Projects)
  
 - **Campus-Network-Configuration-Lab**  
   - This project covers the full setup of a campus network in Cisco Packet Tracer: VLANs, trunking, spanning-tree optimization, redundancy with HSRP, routing with EIGRP, DHCP services, NAT/PAT configuration, and Internet access verification.
@@ -42,10 +46,6 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 - **VLANs-Lab**  
   - This project demonstrates the creation of VLANs in Cisco Packet Tracer, utilizing trunking to enable inter-switch communication.
   - [View Project](https://github.com/AhmS3cOps/VLANs-Lab)
- 
-- **CrackingHashPasswords-Dictionary-Attack**  
-  - Demonstrates how to crack hashed passwords using a dictionary attack approach. The script utilizes the MD6 hashing algorithm for demonstration purposes.
-  - [View Project](https://github.com/AhmS3cOps/CrackingHashPasswords-Dictionary-Attack-)
  
 - **Computer Network Simulation in Cisco Packet Tracer**  
   - This project demonstrates the setup and simulation of a computer network using Cisco Packet Tracer. It covers configuring routers, switches, and PCs, setting up IP addresses, and verifying connectivity between devices across subnets.
