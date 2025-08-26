@@ -23,6 +23,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
   - [View Project](https://github.com/AhmS3cOps/Traffic-Analysis-Wireshark)
 
+- **Active Directory labs**  
+  - This repository contains Hands-on Active Directory labs using Windows Server 2016 and Windows 10 clients. Covers domain setup, user management, authentication, and core sysadmin tasks.
+  - [View Project](https://github.com/AhmS3cOps/Active-Directory-Labs)
+    
 - **Python Projects**  
   - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
   - [View Project](https://github.com/AhmS3cOps/Python-Projects)
