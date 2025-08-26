@@ -56,6 +56,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 - **Cisco Certified Network Associate (CCNA)** –  Cisco Systems  
   - Demonstrated knowledge and skills in network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation & programmability.
   - [Link to Badge](https://www.credly.com/earner/earned/share/e9ffad81-6d3d-4211-b6ee-b0b5e708308f)
+
+- **Jr Penetration Tester** – TryHackMe  
+  - Completed the Jr Penetration Tester learning path, covering core penetration testing skills such as Linux fundamentals, networking, web application security, vulnerability assessment, exploitation, and privilege escalation.  
+  - [Link to Certificate](https://tryhackme.com/certificate/THM-XSZJTRHERJ)
     
 - **Endpoint Security** – Cisco  
   - Completed training on network security concepts and endpoint protection, including OS and application-level security.  
