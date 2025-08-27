@@ -23,6 +23,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - This repository contains Hands-on Active Directory labs using Windows Server 2016 and Windows 10 clients. Covers domain setup, user management, authentication, and core sysadmin tasks.
   - [View Project](https://github.com/AhmS3cOps/Active-Directory-Labs)
     
+- **Campus-Network-Configuration-Lab**  
+  - This project covers the full setup of a campus network in Cisco Packet Tracer: VLANs, trunking, spanning-tree optimization, redundancy with HSRP, routing with EIGRP, DHCP services, NAT/PAT configuration, and Internet access verification.
+  - [View Project](https://github.com/AhmS3cOps/Campus-Network-Configuration-Lab)
+
 - **Zeek-Network-Forensics-TryHackMe-Investigations**  
   - Hands-on threat hunting using Zeek on real-world PCAPs from TryHackMe labs. Investigated DNS tunneling, phishing campaigns, and Log4j RCE exploitation through log analysis, scripting, and malware inspection.
   - [View Project](https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations)
@@ -31,9 +35,6 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
   - [View Project](https://github.com/AhmS3cOps/Python-Projects)
 
-- **Campus-Network-Configuration-Lab**  
-  - This project covers the full setup of a campus network in Cisco Packet Tracer: VLANs, trunking, spanning-tree optimization, redundancy with HSRP, routing with EIGRP, DHCP services, NAT/PAT configuration, and Internet access verification.
-  - [View Project](https://github.com/AhmS3cOps/Campus-Network-Configuration-Lab)
 
 - **F1-Race-Analysis-and-Prediction**  
   - This project involves the development of a data science application that explores historical Formula 1 (F1) race data and uses machine learning models to predict the outcome of races. The application will analyze driver and constructor performance, circuit statistics, and other race-related features to predict whether a driver will finish a race and possibly finish in the top positions.
