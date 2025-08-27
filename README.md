@@ -7,9 +7,9 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - Deployed a secure, self-hosted VPN server using WireGuard on Oracle Cloud’s Always Free Tier infrastructure. This project involved configuring a cloud-based Ubuntu VPS, setting up WireGuard server and client configurations, securely transferring client keys, and verifying encrypted tunneling with IP masking. Learned to manage firewall rules, troubleshoot service states, and understand core VPN concepts like peer authentication, IP routing, and DNS tunneling.
   - [View Project](https://github.com/AhmS3cOps/Personal-WireGuard-VPN-Setup)
     
-- **Zeek-Network-Forensics-TryHackMe-Investigations**  
-  - Hands-on threat hunting using Zeek on real-world PCAPs from TryHackMe labs. Investigated DNS tunneling, phishing campaigns, and Log4j RCE exploitation through log analysis, scripting, and malware inspection.
-  - [View Project](https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations)
+- **Traffic-Analysis-Wireshark**  
+  - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
+  - [View Project](https://github.com/AhmS3cOps/Traffic-Analysis-Wireshark)
     
 - **Snort-Live-Attack-Detection-Prevention-Labs**  
   - Snort-based intrusion detection and prevention lab using TryHackMe scenarios. Detect and block brute-force and reverse shell attacks with custom rules and live traffic analysis.
@@ -19,13 +19,13 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - Implementation of a Site-to-Site IPsec VPN in Cisco Packet Tracer to securely connect two remote LANs over an untrusted WAN, with full configuration and verification steps.
   - [View Project](https://github.com/AhmS3cOps/Site-to-Site-IPsec-VPN-Lab)
     
-- **Traffic-Analysis-Wireshark**  
-  - A repository dedicated to malware analysis using Wireshark. It includes detailed traffic analysis, packet captures, and insights into network behavior to aid in understanding and mitigating malicious activities.
-  - [View Project](https://github.com/AhmS3cOps/Traffic-Analysis-Wireshark)
-
 - **Active Directory labs**  
   - This repository contains Hands-on Active Directory labs using Windows Server 2016 and Windows 10 clients. Covers domain setup, user management, authentication, and core sysadmin tasks.
   - [View Project](https://github.com/AhmS3cOps/Active-Directory-Labs)
+    
+- **Zeek-Network-Forensics-TryHackMe-Investigations**  
+  - Hands-on threat hunting using Zeek on real-world PCAPs from TryHackMe labs. Investigated DNS tunneling, phishing campaigns, and Log4j RCE exploitation through log analysis, scripting, and malware inspection.
+  - [View Project](https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations)
     
 - **Python Projects**  
   - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
