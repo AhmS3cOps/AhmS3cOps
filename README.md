@@ -22,6 +22,10 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
 - **Active Directory labs**  
   - This repository contains Hands-on Active Directory labs using Windows Server 2016 and Windows 10 clients. Covers domain setup, user management, authentication, and core sysadmin tasks.
   - [View Project](https://github.com/AhmS3cOps/Active-Directory-Labs)
+
+- **Python Projects**  
+  - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
+  - [View Project](https://github.com/AhmS3cOps/Python-Projects)
     
 - **Campus-Network-Configuration-Lab**  
   - This project covers the full setup of a campus network in Cisco Packet Tracer: VLANs, trunking, spanning-tree optimization, redundancy with HSRP, routing with EIGRP, DHCP services, NAT/PAT configuration, and Internet access verification.
@@ -31,9 +35,6 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - Hands-on threat hunting using Zeek on real-world PCAPs from TryHackMe labs. Investigated DNS tunneling, phishing campaigns, and Log4j RCE exploitation through log analysis, scripting, and malware inspection.
   - [View Project](https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations)
     
-- **Python Projects**  
-  - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
-  - [View Project](https://github.com/AhmS3cOps/Python-Projects)
 
 - **STP-Security-Lab-Root-Guard-BPDU-Guard**  
   - This project demonstrates how to secure a switched network in Cisco Packet Tracer using Spanning Tree Protocol (STP) features: Root Guard and BPDU Guard. These mechanisms prevent rogue switches from becoming the root bridge and disrupting network topology.
