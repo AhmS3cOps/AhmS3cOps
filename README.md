@@ -35,11 +35,6 @@ Cisco Certified Network Associate (CCNA) with practical experience in network co
   - This repository contains multiple Python-based projects, each demonstrating core concepts in automation, cybersecurity, and scripting.
   - [View Project](https://github.com/AhmS3cOps/Python-Projects)
 
-
-- **F1-Race-Analysis-and-Prediction**  
-  - This project involves the development of a data science application that explores historical Formula 1 (F1) race data and uses machine learning models to predict the outcome of races. The application will analyze driver and constructor performance, circuit statistics, and other race-related features to predict whether a driver will finish a race and possibly finish in the top positions.
-  - [View Project](https://github.com/AhmS3cOps/F1-Race-Analysis-and-Prediction)
-
 - **STP-Security-Lab-Root-Guard-BPDU-Guard**  
   - This project demonstrates how to secure a switched network in Cisco Packet Tracer using Spanning Tree Protocol (STP) features: Root Guard and BPDU Guard. These mechanisms prevent rogue switches from becoming the root bridge and disrupting network topology.
   - [View Project](https://github.com/AhmS3cOps/STP-Security-Lab-Root-Guard-BPDU-Guard)
